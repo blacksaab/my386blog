@@ -4,5 +4,5 @@ title: About
 permalink: /about/
 ---
 
-Change this text with information about me and my blog.
+My name is David Yankura, and I am a statistics student at Brigham Young University. I love to run, hike, backpack, swim, and ski. 
 
