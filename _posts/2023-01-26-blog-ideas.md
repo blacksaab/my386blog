@@ -13,7 +13,9 @@ This post is a test to make sure everything is working on my end, as well as a p
 - Book for data science ethics: 
 - Main class project: 
 
-![Stone bridge spanning a waterfall](https://raw.githubusercontent.com/blacksaab/my386blog/main/assets/images/Blog-Ideas_Middle.jpg)
+<!-- ![Stone bridge spanning a waterfall](https://raw.githubusercontent.com/blacksaab/my386blog/main/assets/images/Blog-Ideas_Middle.jpg) -->
+
+<img src="raw.githubusercontent.com/blacksaab/my386blog/main/assets/images/Blog-Ideas_Middle.jpg" alt="Stone bridge spanning a waterfall">
 
 ## Ideas for Future Posts for Me
 - Random Forests 
