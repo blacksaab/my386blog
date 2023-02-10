@@ -19,6 +19,8 @@ This post is a test to make sure everything is working on my end, as well as a p
 
 <img src="raw.githubusercontent.com/blacksaab/my386blog/main/assets/images/Blog-Ideas_Middle.jpg" alt="Stone bridge spanning a waterfall">
 
+<img src="https://raw.githubusercontent.com/blacksaab/my386blog/main/assets/images/Blog-Ideas_Middle.jpg?token=GHSAT0AAAAAAB5U4XA6FK5JOWWG5CFWF2NCY7F6JAA">
+
 
 
 ## Ideas for Future Posts for Me
