@@ -15,7 +15,7 @@ This post is a test to make sure everything is working on my end, as well as a p
 
 ![Stone bridge spanning a waterfall](https://raw.githubusercontent.com/blacksaab/my386blog/main/assets/images/Blog-Ideas_Middle.jpg)
 
-[Stone bridge spanning a waterfall](https://github.com/blacksaab/my386blog/raw/main/assets/images/Blog-Ideas_Middle.jpg)
+[Stone bridge spanning a waterfall](https://raw.githubusercontent.com/blacksaab/my386blog/main/assets/images/Blog-Ideas_Middle.jpg?token=GHSAT0AAAAAAB5U4XA6FK5JOWWG5CFWF2NCY7F6JAA)
 
 <img src="raw.githubusercontent.com/blacksaab/my386blog/main/assets/images/Blog-Ideas_Middle.jpg" alt="Stone bridge spanning a waterfall">
 
