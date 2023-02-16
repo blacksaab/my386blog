@@ -24,6 +24,12 @@ This post is a test to make sure everything is working on my end, as well as a p
 <img src="/assets/images/Post_1/plot_1.jpg">
 <img src="../assets/images/Post_1/plot_1.jpg">
 
+![Stone bridge spanning a waterfall](assets/images/Blog-Ideas_Middle.jpg)
+
+![Stone bridge spanning a waterfall](../assets/images/Blog-Ideas_Middle.jpg)
+
+![Stone bridge spanning a waterfall](/assets/images/Blog-Ideas_Middle.jpg)
+
 
 
 
