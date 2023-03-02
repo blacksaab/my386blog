@@ -3,7 +3,7 @@ layout: post
 title:  "Review: Artificial Unintelligence by Meredith Broussard"
 author: David Yankura
 description: How to Plot Functions in R using ggplot
-image: /assets/images/Post_1/Circuit_Board.jpg
+image: /assets/images/Circuit_Board.jpg
 ---
 
 This brief narrative from Broussard dissects the plethora of issues rampant in the contemporary tech industry. From massive flaws in how the Philidelphia public school system handles textbooks, to dangerous self-driving cars, to reckless technochauvinists who place profits above all else. 
